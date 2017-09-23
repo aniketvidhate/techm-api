@@ -1,2 +1,0 @@
-http://beginnersbook.com/2014/01/method-overriding-in-java-with-example/
-https://spring.io/guides/gs/rest-service/
